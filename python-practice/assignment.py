@@ -15,7 +15,7 @@ student_info={
 "mock_interview_avg":6.17, # the avg of 3 mock interview till now out of 10
 # attendance streak tracker
 "attendance_streak": 25, # till 11-09-2026
-"streak_broken": 1,# 12-090-2026 due to rainfall the streak is broken
+"streak_broken": 1,# 12-09-2026 due to rainfall the streak is broken
 "current_streak":0, # The attendace is currently 0
 }
 
