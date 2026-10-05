@@ -22,7 +22,7 @@ server = smtplib.SMTP('smtp.gmail.com', 587)
 server.starttls()
 
 # login to email
-server.login('praveen545792@gmail.com', 'aidr wytj hqkh lcbo')
+server.login('your email_id', 'app password')
 
 # otp and mail format and sending attachement
 otp = random.randint(1000, 9999)
