@@ -46,7 +46,6 @@ a=Classname()
 # it also provides accessibility(public,private,protected)
 
 
-# Inheritance--> 
 # Students Class with basic details
 
 class Students:
